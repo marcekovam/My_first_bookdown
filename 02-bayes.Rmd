@@ -1,2 +1,5 @@
 # Bayes
 
+```{r name, fig.cap="The best graph in the Galaxy!!!"}
+plot(1:5)
+```
