@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  highlight: tango
+  highlight: haddock   # pygments, monochrome, haddock
   css: style.css
   code_folding: hide
   fig_caption: true

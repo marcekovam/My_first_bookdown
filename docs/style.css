@@ -1,9 +1,10 @@
 p.caption {
-  color: #777;
+  color: #757575;
   margin-top: 10px;
 }
 p code {
   white-space: inherit;
+  
 }
 pre {
   word-break: normal;
@@ -11,4 +12,36 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+.book .book-summary {
+  background: #E3F2FD;
+  border-right: 1px #BBDEFB solid;
+}
+.summary a:hover {
+  color: #778ca5 !important;
+} 
+.book .book-summary ul.summary li.active>a { /*active TOC links*/
+  color: #1A237E !important;
+  border-left: solid 4px;
+  border-color: #1A237E;
+  padding-left: 11px !important;
+}  
+h1, h2, h3, h4 {
+  font-family: 'Prata', serif;
+  color: #1A237E;
+}
+.title {
+  font-family: 'Prata', serif;
+  font-size: 3em !important;
+  color: #1A237E;
+ }
+ 
+/*____Code Chunks____*/
+
+.sourceCode pre {
+  margin: 0 !important; /* makes space above and below symmetrical*/
+}
+
+.sourceCode {
+  margin-bottom: 0.85em; /* adds same amount of margin as a <p> would */
 }

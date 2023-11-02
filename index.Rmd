@@ -5,9 +5,6 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-\renewcommand{\figurename}{Obrázok}
-\renewcommand{\tablename}{Tabuľka}
-
 ```{r setup, include=FALSE}
 library("ggplot2")   
 library("bsamGP")
