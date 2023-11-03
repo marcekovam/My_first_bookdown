@@ -1,4 +1,4 @@
-My first bookdown template is based on [GitBook template](https://github.com/jtr13/bookdown-template) by [Joyce Robbins](https://github.com/jtr13). Changes in appearance are inspired by [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html). Color chart used in this bookdown can be seen at [HTML color codes](https://htmlcolorcodes.com/color-chart/material-design-color-chart/).
+My first bookdown template is based on [bookdown template](https://github.com/jtr13/bookdown-template) by [Joyce Robbins](https://github.com/jtr13). Changes in appearance are inspired by [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html). Color chart used in this bookdown can be seen at [HTML color codes](https://htmlcolorcodes.com/color-chart/material-design-color-chart/).
 
 ### Some useful `R` commands
 
