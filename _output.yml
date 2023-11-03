@@ -1,6 +1,6 @@
 bookdown::gitbook:
   highlight: haddock   # pygments, monochrome, haddock
-  clean: false
+#  clean: false
   includes:
     in_header: header.html
   css: style.css
