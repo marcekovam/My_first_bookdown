@@ -3,8 +3,8 @@ output_dir: docs
 #delete_merged_file: true
 #new_session: yes
 #preview: true
-#edit: https://github.com/marcekovam/My_first_bookdown2/edit/main/%s
-view: https://github.com/marcekovam/My_first_bookdown2/blob/main/%s
+#edit: https://github.com/marcekovam/My_first_bookdown/edit/main/%s
+view: https://github.com/marcekovam/My_first_bookdown/blob/main/%s
 language:
   ui:
     chapter_name: "Kapitola "
