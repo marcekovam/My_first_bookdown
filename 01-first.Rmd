@@ -1,4 +1,5 @@
-# Bayes
+# (PART\*) Part one {-}
+# First chapter
 
 ```{r name, fig.cap="The best graph in the Galaxy!!!"}
 plot(1:5)

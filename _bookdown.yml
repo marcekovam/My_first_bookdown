@@ -1,6 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
+new_session: yes
+preview: true
 #edit: https://github.com/marcekovam/My_first_bookdown/edit/main/%s
 view: https://github.com/marcekovam/My_first_bookdown/blob/main/%s
 language:
@@ -13,3 +15,9 @@ language:
     thm: "Veta "
     def: "Definícia "
     exm: "Príklad "
+rmd_files: # defines the .Rmd files to be included for each output format
+  html: ["index.Rmd", 
+         "01-first.Rmd", 
+         "02-second.Rmd", 
+         "03-third.Rmd",
+         "04-fourth.Rmd"]

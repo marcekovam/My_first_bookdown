@@ -1,9 +1,9 @@
 fig:name
-bayesian-spectral-analysis-reg
-bayes
-bsar
-bsarm
+first-chapter
+second-chapter
+third-chapter
+fourth-chapter
+section
+section-1
+subsection
 section-2
-subsection-3
-subsub-1
-bbbbb

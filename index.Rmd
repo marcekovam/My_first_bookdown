@@ -1,5 +1,5 @@
 --- 
-title: "Bla bla"
+title: "Title"
 author: "Michaela Marčeková"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -16,5 +16,8 @@ knitr::opts_chunk$set(echo = TRUE,
                       fig.width = 8)
 ```
 
-# Bayesian Spectral Analysis Reg
+# Introduction {-}
 
+[I'm an inline-style link](https://www.google.com)
+
+[Chapeter 1 link](#first-chapter)

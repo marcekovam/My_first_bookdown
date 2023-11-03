@@ -1,5 +1,8 @@
 bookdown::gitbook:
   highlight: haddock   # pygments, monochrome, haddock
+  clean: false
+  includes:
+    in_header: header.html
   css: style.css
   code_folding: hide
   fig_caption: true
@@ -10,7 +13,7 @@ bookdown::gitbook:
       collapse: subsection
       scroll_highlight: true
       before: |
-        <li><a href="./">Bla bla bla</a></li>
+        <li><a href="./">Above toc title</a></li>
       after: null
     toolbar:
         position: fixed   # static
